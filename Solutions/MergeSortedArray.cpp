@@ -17,7 +17,3 @@ void merge(vector<int>& nums1, int m, vector<int>& nums2, int n)
         nums1[k--]=nums2[j--];
     }
 }
-
-int main () {
-
-}
